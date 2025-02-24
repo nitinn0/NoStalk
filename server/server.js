@@ -38,7 +38,7 @@ app.post("/messages", async (req, res) => {
 });
 
 io.on("connection", (socket) => {
-    console.log("🔵 A user connected");
+    console.log("A user connected");
 
     socket.on("sendMessage", async (message) => {
         const newMessage = new Message({ text: message });
