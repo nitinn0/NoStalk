@@ -28,5 +28,5 @@ No Stalk **an anonymous real-time chat application** where users can send, edit,
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/anonymous-chat-app.git
+git clone https://github.com/nitinn0/NoStalk
 cd nostalk
